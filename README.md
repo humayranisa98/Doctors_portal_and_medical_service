@@ -1,1 +1,2 @@
-# Doctors_portal_and_medical_service
+# Doctors-Portal-and-Medical-Services
+C based project
